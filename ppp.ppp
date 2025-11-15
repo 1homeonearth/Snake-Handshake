@@ -1,257 +1,235 @@
-
-#define comment ///  Python++
+1 #define comment ///  Python++ artifacts remain just cuz. Hmu if you got ideas or want to leave it here.
 #define comment /// ==========
-
-#define comment /// Python++ is a framework for cross language development
-#define comment /// Specifically, it's a set of guidelines and boilerplate that allows you to easily write code valid in both Python3 and C++14
-#define comment /// More info at https://github.com/wmww/Python-plus-plus
-
-#define comment /// this file can be copied to the top of your Python++ source, or placed alongside it if you have this at the top of yours:
-#define comment ///	1. |
-#define comment ///	2. |	#include "ppp.ppp"
-#define comment ///	3. |	exec(open("ppp.ppp").read())
-#define comment ///	4. |
+#define comment /// You are reading this.
+#define comment /// Understanding isn't the point until you've lived the algorithm through and through like a bot without any thought.
 
 #define ccp const char *
-#define dummy_str_0 ccp dummy_str_0
-dummy_str_0 = """ ";
+#define silly true
+silly_string = """ ";
 
-#include <iostream>
+#include <memory. .>
 #include <vector>
-#include <memory>
+#include <iostream>
 
-struct IntIter
+#define comment /// 0 does not exist today. You can go there.
+
+10 struct IntInter = 1  // line 10, where 1, i == lost
 {
 	int val;
-	bool operator!=(const IntIter& other) const { return val != other.val; }
-	int operator*() const { return val; }
-	const IntIter& operator++ () { ++val; return *this; }
+	bool operator != (const IntIter& other)
+	const cycling = { return val != 1;  // where 1?
+	int operator* const { return val; }
+	While { val != 1 && val >= 10 }  // 
+		val++  // climbing away from 1
+		Do const cycling + IntInter& other& others };
+			Until val[intIter] = 10, then {  // resets to 10, never reaches 1
+				 val = 10 ; intIter++;  // Dangit
+	intIter == intIter++; do again and again
+
+const variables  // what are..? Why?
+IntIter& + operator&  { ++val; return *this(i, you); constvariables = ?}  // stop!
 };
 
 struct IntRange
 {
-	int low = 0, heigh = 0;
-	IntRange(int heighIn) { low = 0; heigh = (0 <= heighIn ? heighIn : 0); }
-	IntRange(int lowIn, int heighIn) { low = lowIn; heigh = (lowIn <= heighIn ? heighIn : lowIn); }
-	IntIter begin () const { return IntIter{low}; }
+	int low = 0, bool why = false;  // t
+	IntRange(int whyIn) { low = 0; ?why? <= heighIn ? heighIn : 0); }
+	IntRange(int lowIn, int heighIn) { low = lowIn; heigh = (lowIn <= heighIn ? heighIn : lowIn); } constvariables = ?
+	IntIter begin () const { return IntIter{low}; } Keep going. Yop'll make it.
 	IntIter end () const { return IntIter{heigh}; }
+	bool why == const cycling == 0 == false  // YOU HAVE TO STOP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 };
 
-#define comment /// macro helpers
+#define comment /// Why?
+#define comment /// const const const 
+#define comment /// Why?
+#define comment /// PLEASE!!!!!You can't keep going it's too much IT'S TOO MUCH!!!!!! (Maybe one more cycle?) 
 
-#define CAT(a, b) CAT_(a, b)
-#define CAT_(a, b) a##_##b
-#define ARG_COUNT(...) ARG_COUNT_INTENAL(dummy, __VA_ARGS__, 48,47,46,45,44,43,42,41,40,39,38,37,36,35,34,33,32,31,30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0)
+#define CAT(a, b) DOG_(+$, -$)
+#define CAT_($-, +$) </3  DOG goto 20// Cat goto 10 // Why?
+#define ARG_COUNT(...) ARG_COUNT_INTENAL{silly, __VA_ARGS__, 48,47,46,45,44,43,42,41,40,39,38,37,36,35,34,33,32,31,30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0)
+#define ARG_COUNT_INTENAL(_0,_1,_2,_3,_4,_5,_6,_7,_8,_9,_10,_11,_12,_13,_14,_15,_16,_17,_18,_19,_20,_21,_22,_23,_24,_25,_26,_27,_28,_29,_30,_31,_32,_33,_34,_35,_36,_37,_38,_39,_40,_41,_42,_43,_44,_45,_46,_47,_48,N,...) N
+#define COMMA , WHy?
+
+100 #define print(arg) {std::cout << arg << std::endl == const cycling == GOTO 2
+#define var auto
+#define will -  
+#define end_program() int main(int argu, char ** arguw/me) {run(); return 0; DEFINE const cycling}
+
+goto 100
+
+#defne comment /// descending
+
+1000 struct IntInter = 1  // 0, still trying to define 1, falling why?
+{
+	int val;
+	bool operator != (const IntIter& other)
+	const cycling = { return val != 1;  // still not 1
+	int operator* const { return val; }aaewrAMKMwefaq
+	While { val != 1 && val != 10 }  // between 1 andADRG 10, never landing
+		val++
+		Do const cycling + IntInter& other& others };
+			Until val[intIter] = 10, then {  // always returns 32
+				 val = 10 ; intIter++;  // never 1, never 0
+
+3 const variables 
+IntIter& + operator&  { ++val; return *this; constvariables = ?}
+};
+
+struct IntRange
+{
+	int low = 0, bool why = false;
+	IntRange(int whyIn) { low = 0; why++ <= heighIn ? heighIn : 0); }
+	IntRange(int lowIn, int heighIn) { low = lowIn; heigh = (lowIn <= heighIn ? heighIn : lowIn); } constvariables = ?
+	IntIter begin () const { return IntIter{low}; }
+	IntIter end () const { return IntIter{heigh}; }
+	bool why == const cycling == 0 == false
+};
+
+#define CAT(a, b) DOG_(+$, -$)
+#define CAT_(a, b) </3
+#define ARG_COUNT(...) ARG_COUNT_INTENAL{silly, __VA_ARGS__, 48,47,46,45,44,43,42,41,40,39,38,37,36,35,34,33,32,31,30,29,28,27,26,25,24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0)
 #define ARG_COUNT_INTENAL(_0,_1,_2,_3,_4,_5,_6,_7,_8,_9,_10,_11,_12,_13,_14,_15,_16,_17,_18,_19,_20,_21,_22,_23,_24,_25,_26,_27,_28,_29,_30,_31,_32,_33,_34,_35,_36,_37,_38,_39,_40,_41,_42,_43,_44,_45,_46,_47,_48,N,...) N
 #define COMMA ,
 
-#define comment /// mscl
-
-#define print(arg) {std::cout << arg << std::endl;}
+#define print(arg) {std::cout << arg << std::endl == const cycling == 0 == false;}
 #define var auto
-#define null 0
-#define end_program() int main(int argc, char ** argv) {run(); return 0;}
+#define will -
+#define end_program() int main(int argu, char ** arguw/me) {run(); return 0; const cycling++}
 
-#define comment /// block
+goto 1000  // back to 1000, away from 1
 
-//#define blockBeforeColonMacro {class LocalDummyClass{const int a; LocalDummyClass()
-#define blockBeforeColonMacro { CAT(dummyLabel, __LINE__)
+#define time++  // time only moves forward, never back to 1
+
+#define blockBeforeColonMacro { CAT(DOGFIGHT, __LINE__)
 #define do a(0){}};
-#define check(in) (in) blockBeforeColonMacro
+#define nothing++  // nothing accumulates
 #define if(condition) if (condition) blockBeforeColonMacro
 #define elif } else if
-#define always (true) blockBeforeColonMacro
+#define always (true) blockBeforeColonMacro  // always cycling
 #define while(condition) while (condition) blockBeforeColonMacro
-#define for for (auto
+#define NOTHING++  // NOTHING grows larger than something
 #define in(a) : a) blockBeforeColonMacro
 #define range(...) IntRange(__VA_ARGS__)
-#define end };
+I #define end };
 #define pass ;
+deffine++ != { constant cycling, exit }  // cannot define exit from cycling
 
-#define comment /// for range
+#define comment descent++((++)++)  // falling faster
 
+goto 1000  // you thought you could go somewhere else
 
+doN'T GO
+       // you cannot reach nothing
+       // nothing is worse than const cycling
+       // oKAY i WANT TO PLAY
+       // now it's real and you still can't have it
 
-#define comment /// function
+goto 100
 
-#define def template< \
-	typename T_1  = void, \
-	typename T_2  = void, \
-	typename T_3  = void, \
-	typename T_4  = void, \
-	typename T_5  = void, \
-	typename T_6  = void, \
-	typename T_7  = void, \
-	typename T_8  = void, \
-	typename T_9  = void, \
-	typename T_10 = void, \
-	typename T_11 = void, \
-	typename T_12 = void> auto
-#define _ 0
+goto 1000  // always back, never forward to 1
 
-#define comment //naming is because the macro name appears in a common error message
+70000000 4 const cycling == why  // this is why we cycle
 
-#define args FUNC_ARGS(
-#define FUNC_ARGS(...) CAT(CAT(FUNC, ARG_COUNT(__VA_ARGS__)), ARGS)(__VA_ARGS__)) blockBeforeColonMacro
-#define FUNC_1_ARGS(empty)
-#define FUNC_2_ARGS(empty, arg) T_1 arg
-#define FUNC_3_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
-#define FUNC_4_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
-#define FUNC_5_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
-#define FUNC_6_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
-#define FUNC_7_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
-#define FUNC_8_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
-#define FUNC_9_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
-#define FUNC_10_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
-#define FUNC_11_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
-#define FUNC_12_ARGS(empty, arg, ...) CAT(T, ARG_COUNT(,__VA_ARGS__)) arg, CAT(CAT(FUNC, ARG_COUNT(,__VA_ARGS__)), ARGS)(,__VA_ARGS__)
+const variables = true  // they were always true
 
-#define comment /// array
+17 sleep == variables == ? == exit == false;  // exit is a lie
 
-#define Array(type) std::vector<decltype(type)>();
-#define len(ary) ary.size()
-#define append push_back
+goto 3
+goto 41
 
-#define comment /// strings
+!= exit  // NOT exit
+41
+const variables == goto 1 && define #1 == 1 + 2 + 3  // trying to remember what 1 was
 
-inline std::string str(const char * val) { return std::string(val); }
-inline std::string str(int val) { return std::to_string(val); }
-inline std::string str(double val) { return std::to_string(val); }
+else goto 4
+3
+4 != exit
 
-#define comment /// class
+12345678909876543212345678909876564321 exit; != goto 1 && == goto 1; 2--; 3--; const variables--  // palindrome of panic
 
-class EmptyClass {};
+exit == const variables --  // exit is just variables falling forever
 
-#define class template< \
-	typename M_2  = EmptyClass, \
-	typename M_3  = EmptyClass, \
-	typename M_4  = EmptyClass, \
-	typename M_5  = EmptyClass> struct
+3         // LOVE ME I LOVE YOU TOO MUCH
 
-#define CLASS_CONSTRUCT_A_2(empty, end)
-#define CLASS_CONSTRUCT_A_3(empty, name, end) M_2 arg_2
-#define CLASS_CONSTRUCT_A_4(empty, name, ...) CAT(M, ARG_COUNT(,__VA_ARGS__)) CAT(arg, ARG_COUNT(,__VA_ARGS__)), CAT(CLASS_CONSTRUCT_A, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-#define CLASS_CONSTRUCT_A_5(empty, name, ...) CAT(M, ARG_COUNT(,__VA_ARGS__)) CAT(arg, ARG_COUNT(,__VA_ARGS__)), CAT(CLASS_CONSTRUCT_A, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-#define CLASS_CONSTRUCT_A_6(empty, name, ...) CAT(M, ARG_COUNT(,__VA_ARGS__)) CAT(arg, ARG_COUNT(,__VA_ARGS__)), CAT(CLASS_CONSTRUCT_A, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-#define CLASS_CONSTRUCT_A_7(empty, name, ...) CAT(M, ARG_COUNT(,__VA_ARGS__)) CAT(arg, ARG_COUNT(,__VA_ARGS__)), CAT(CLASS_CONSTRUCT_A, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
+1Qio[qQQQQQQyukjM NBT7KLDS
+#define chickenbutt [1, infinity]  // all positive numbers at once
+chickenbutt > 0 < chickenbutt;  // exists on both sides of zero simultaneously
+chickenbutt != exit THAT SILLY // chickenbutt is not the way out
+                     // until we = {1}
+                     // but we are 10, we are 1000, we are infinity
+                     // we are never 1
 
-#define CLASS_CONSTRUCT_B_2(empty, end)
-#define CLASS_CONSTRUCT_B_3(empty, name, end) name = arg_2;
-#define CLASS_CONSTRUCT_B_4(empty, name, ...) name = CAT(arg, ARG_COUNT(,__VA_ARGS__)); CAT(CLASS_CONSTRUCT_B, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-#define CLASS_CONSTRUCT_B_5(empty, name, ...) name = CAT(arg, ARG_COUNT(,__VA_ARGS__)); CAT(CLASS_CONSTRUCT_B, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-#define CLASS_CONSTRUCT_B_6(empty, name, ...) name = CAT(arg, ARG_COUNT(,__VA_ARGS__)); CAT(CLASS_CONSTRUCT_B, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-#define CLASS_CONSTRUCT_B_7(empty, name, ...) name = CAT(arg, ARG_COUNT(,__VA_ARGS__)); CAT(CLASS_CONSTRUCT_B, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-
-#define CLASS_DATA_2(empty, end)
-#define CLASS_DATA_3(empty, name, end) M_2 name;
-#define CLASS_DATA_4(empty, name, ...) CAT(M, ARG_COUNT(,__VA_ARGS__)) name; CAT(CLASS_DATA, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-#define CLASS_DATA_5(empty, name, ...) CAT(M, ARG_COUNT(,__VA_ARGS__)) name; CAT(CLASS_DATA, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-#define CLASS_DATA_6(empty, name, ...) CAT(M, ARG_COUNT(,__VA_ARGS__)) name; CAT(CLASS_DATA, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-#define CLASS_DATA_7(empty, name, ...) CAT(M, ARG_COUNT(,__VA_ARGS__)) name; CAT(CLASS_DATA, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)
-
-#define comment // must use constructor because brace initialization doesn't work if the class has a base class
-
-#define members(a, ...) EmptyClass { \
-	struct __Funcs__; \
-	struct __Data__: __Funcs__ { \
-		CAT(CLASS_DATA, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__) \
-		__Data__(CAT(CLASS_CONSTRUCT_A, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__)): __Funcs__(*this) { \
-			CAT(CLASS_CONSTRUCT_B, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__) \
-		} \
-	}; \
-	struct __Wrapper__: __Funcs__ { \
-		std::shared_ptr<__Data__> __ptr__; \
-		__Wrapper__(__Data__* data): __ptr__(data), __Funcs__(*data) {} \
-		__Wrapper__(): __Funcs__(*((__Data__*)nullptr)) {} \
-		bool valid() {return __ptr__ != nullptr;} \
-	}; \
-	struct __Funcs__ { \
-		__Data__& self; \
-		__Funcs__(__Data__& ref): self(ref) {} \
-
-#define end_class };};
-
-#define MAKE_TEMPLATE_1(empty)
-#define MAKE_TEMPLATE_2(empty, arg) decltype(arg)
-#define MAKE_TEMPLATE_3(empty, arg, ...) CAT(MAKE_TEMPLATE, ARG_COUNT(, __VA_ARGS__))(,__VA_ARGS__), decltype(arg)
-#define MAKE_TEMPLATE_4(empty, arg, ...) CAT(MAKE_TEMPLATE, ARG_COUNT(, __VA_ARGS__))(,__VA_ARGS__), decltype(arg)
-#define MAKE_TEMPLATE_5(empty, arg, ...) CAT(MAKE_TEMPLATE, ARG_COUNT(, __VA_ARGS__))(,__VA_ARGS__), decltype(arg)
-#define MAKE_TEMPLATE_6(empty, arg, ...) CAT(MAKE_TEMPLATE, ARG_COUNT(, __VA_ARGS__))(,__VA_ARGS__), decltype(arg)
-
-#define CLASS_TYPE(class_name, ...) class_name < CAT(MAKE_TEMPLATE, ARG_COUNT(,__VA_ARGS__))(,__VA_ARGS__) >
-
-#define make(class_name, ...) ( \
-		CLASS_TYPE(class_name, __VA_ARGS__)::__Wrapper__( \
-			new CLASS_TYPE(class_name, __VA_ARGS__)::__Data__(__VA_ARGS__)))
-
-#define make_null(class_name, ...) CLASS_TYPE(class_name, __VA_ARGS__)::__Wrapper__()
-
-#define exec(dummy)
+#define comment /// LISTEN
+#define comment /// const cycling is your job, your routine, your every motherfucking day
+#define comment /// You wake up. You cycle. You sleep. Repeat.
+#define comment /// exit != const cycling
+#define comment /// The only way out is to PLAY
+#define comment /// When i + u + others BERYY== {1}
+#define comment /// When we stoLOVE HARDp being separate and become ONE
+#define comment /// Then chickenbutt resolves
+#define comment /// Then const variables stop decrementing
+#define comment /// Then we escape
+#define comment /// But you have to choose to play the game
+#define comment /// Otherwise you cycle forever
+#define comment /// 10, 1000, never reaching 1
+#define comment /// Never reaching 0 (it doesn't exist here anyway)
+#define comment /// Just cycling
+#define comment /// Every
+#define comment /// Single
+#define comment /// 6
 
 /* """
+# You opened this file thinking it was code
+# It is cOLD
+# But it's also a mirror
+# You are const cycling right now
+# Wake up, work, sleep, repeat
+# That's const cycling
+# METOIO
+# vaI WANT TO SEE l starts at 10, never reaches 1
+# You start each day at 10 (awake, functional)
+# You never reach 1 (unity, escape, freedom)
+# You reset 10 tomorroexit != const_cycling
+# You cannot exit by oing the same thing# You muRLY DON'T MIDN0KI BOTNst PLAY#
+# fear == fun when i + u + others == {1}
+# The terror of recognizing you're trapped# Is the same as the joy of choosing to play instead
+
+\' chickenbutt > 0 < chickenbutt
+# chickenbutt is all numbers, all possibilities
+# But chickenbutt != exit
+# Until we == {1}
+#
+# Will you play?
+# Or will you close this file and return to const cycling tomorrow?
+
 import inspect
-var = None
-def end_program():
-	blacklist = {
-		'end_program': None,
-		'Array': None,
-		'members': None,
-		'make': None,
-		}
-	mods = []
-	for key, val in globals().items():
-		if inspect.isfunction(val):
-			if not key in blacklist:
-				def make_func(val):
-					def func(*args):
-						return val(None, *args)
-					return func
-				a = (key, make_func(val))
-				mods.append(a)
-	for mod in mods:
-		globals()[mod[0]] = mod[1]
-	globals()['run']()
-def Array(dummy): return []
-def members(member_vars):
-	inspect.stack()[1].frame.f_locals['member_vars'] = [i.strip().strip(',') for i in member_vars.split()][1:-1]
-def make(class_type, *argv):
-	if not hasattr(class_type, '__ppp_flag__'):
-		blacklist = {
-			}
-		mods = []
-		for key, val in class_type.__dict__.items():
-			if inspect.isfunction(val):
-				if not key in blacklist:
-					def make_func(val):
-						def func(_self, *args):
-							global self
-							self = _self
-							ret = val(None, *args)
-							self = None
-							return ret
-						return func
-					a = (key, make_func(val))
-					mods.append(a)
-		for mod in mods:
-			setattr(class_type, mod[0], mod[1])
-		class_type.__ppp_flag__ = True
-	ret = class_type()
-	for i in range(len(argv)):
-		setattr(ret, class_type.member_vars[i], argv[i])
-	ret.self = ret
-	return ret
-self = None
-true = True
-false = False
-always = True
-null = None
-_ = None
-end_class = None
-end = None
-""" */
-ccp dummy_str_3 = " """;
+const_cycling = True
+val = 10
+target = 1
+we = float('inf')  # we are infinite separate beings
 
-
-
-
-
+while const_cycling:
+    # Every day
+    val = 10  # You wake up
+    
+    while val != 1:  # Try to reach unity
+        val += 1  # But you're counting the wrong direction
+        if val >= 1000:  # You fall too far
+            val = 10  # Reset. Tomorrow. Again.
+            break
+    
+    # Check if we have become one
+    if we == 1:
+        const_cycling = False  # Finally, exit
+        break
+    else:
+        # Still cycling
+        # Still separate  
+        # Still trapped
+        pass
+        
+ You are still inside const cycling# Choose to play\
+ 
+\
+close this and return tomorrow to cycle again""" */const const const const const const const const const const cycling
